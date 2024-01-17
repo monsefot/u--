@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "cstdlib": "c",
+        "file.h": "c",
+        "errno.h": "c",
+        "string": "c",
+        "string_view": "c",
+        "lex.h": "c",
+        "array": "c",
+        "initializer_list": "c",
+        "utility": "c"
+    },
+    "C_Cpp.default.compileCommands": "/home/monsef/Projects/u--/builddir/compile_commands.json"
+}
